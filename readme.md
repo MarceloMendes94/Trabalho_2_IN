@@ -1,28 +1,3 @@
-```python
-!pip install xlrd pandas seaborn matplotlib sklearn seaborn xlrd
-```
-
-    Requirement already satisfied: xlrd in ./.venv/lib/python3.8/site-packages (2.0.1)
-    Requirement already satisfied: pandas in ./.venv/lib/python3.8/site-packages (1.3.5)
-    Requirement already satisfied: seaborn in ./.venv/lib/python3.8/site-packages (0.11.2)
-    Requirement already satisfied: matplotlib in ./.venv/lib/python3.8/site-packages (3.5.1)
-    Requirement already satisfied: sklearn in ./.venv/lib/python3.8/site-packages (0.0)
-    Requirement already satisfied: pytz>=2017.3 in ./.venv/lib/python3.8/site-packages (from pandas) (2021.3)
-    Requirement already satisfied: numpy>=1.17.3; platform_machine != "aarch64" and platform_machine != "arm64" and python_version < "3.10" in ./.venv/lib/python3.8/site-packages (from pandas) (1.21.4)
-    Requirement already satisfied: python-dateutil>=2.7.3 in ./.venv/lib/python3.8/site-packages (from pandas) (2.8.2)
-    Requirement already satisfied: scipy>=1.0 in ./.venv/lib/python3.8/site-packages (from seaborn) (1.7.3)
-    Requirement already satisfied: pyparsing>=2.2.1 in ./.venv/lib/python3.8/site-packages (from matplotlib) (3.0.6)
-    Requirement already satisfied: pillow>=6.2.0 in ./.venv/lib/python3.8/site-packages (from matplotlib) (8.4.0)
-    Requirement already satisfied: cycler>=0.10 in ./.venv/lib/python3.8/site-packages (from matplotlib) (0.11.0)
-    Requirement already satisfied: fonttools>=4.22.0 in ./.venv/lib/python3.8/site-packages (from matplotlib) (4.28.3)
-    Requirement already satisfied: kiwisolver>=1.0.1 in ./.venv/lib/python3.8/site-packages (from matplotlib) (1.3.2)
-    Requirement already satisfied: packaging>=20.0 in ./.venv/lib/python3.8/site-packages (from matplotlib) (21.3)
-    Requirement already satisfied: scikit-learn in ./.venv/lib/python3.8/site-packages (from sklearn) (1.0.1)
-    Requirement already satisfied: six>=1.5 in ./.venv/lib/python3.8/site-packages (from python-dateutil>=2.7.3->pandas) (1.16.0)
-    Requirement already satisfied: threadpoolctl>=2.0.0 in ./.venv/lib/python3.8/site-packages (from scikit-learn->sklearn) (3.0.0)
-    Requirement already satisfied: joblib>=0.11 in ./.venv/lib/python3.8/site-packages (from scikit-learn->sklearn) (1.1.0)
-
-
 # Exames cardiotopagico
 [Referencia]("https://blog.medicalway.com.br/cardiotocografia-entenda-a-importancia-para-a-saude-do-bebe/")
 
